@@ -1,0 +1,42 @@
+ * {
+     margin: 0;
+     padding: 0;
+ }
+
+ .bodyCtn {
+     border: 2px;
+ }
+
+ .card {
+     width: 50%;
+     margin: 25% auto;
+ }
+ .card {
+     width: 70%;
+     background-color: #DDDDDD;
+     border-radius: 1rem;
+     box-shadow: 0px 0px 0px;
+     padding: 20px;
+ }
+
+ .imgCtn {
+     width: 70%;
+     margin: 0 auto;
+     color: rgb(131, 9, 9);
+     padding: 18px;
+     font-style: oblique;
+ }
+
+ .imgCtn img {
+     width: 100%;
+     border: 2px;
+     padding: 20px;
+ }
+
+ .card h1 {
+     font-size: 1.5rem;
+     color: firebrick;
+     text-align: center;
+
+
+ }
